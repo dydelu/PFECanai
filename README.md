@@ -1,6 +1,6 @@
 ﻿# Projet de Fin d'Etudes
 
-<img src="[images/classifydemo_img5.png](https://github.com/dydelu/PFECanai/blob/master/canai-high-resolution-logo.png)" style="width: 60%" />
+<img src="images/classifydemo_img5.png" style="width: 60%" />
 
 ## Membres
 
