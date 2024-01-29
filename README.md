@@ -24,9 +24,9 @@ Les instructions suivantes permettent d'expliquer comment monter cette applicati
 
 Une partie des instructions proviennent de la documentation officielle de Tensor Flow Lite, le logiciel permettant de détecter les objets.
 
-<!-- TODO(b/124116863): Add app screenshot. -->
+<img src="images/appCanai.png" style="width: 60%" />
 
-### Instuctions (ENG)
+## Instuctions (ENG)
 
 We provide 4 models bundled in this App: MobileNetV1 (float), MobileNetV1
 (quantized), EfficientNetLite (float) and EfficientNetLite (quantized).
