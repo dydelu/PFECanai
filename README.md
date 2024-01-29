@@ -20,6 +20,8 @@ Le projet consiste à développer un outil technique, sous la forme d’une appl
 
 Les instructions suivantes permettent d'expliquer comment monter cette application depuis son propre PC.
 
+Une partie des instructions proviennent de la documentation officielle de Tensor Flow Lite, le logiciel permettant de détecter les objets.
+
 <!-- TODO(b/124116863): Add app screenshot. -->
 
 ### Model
