@@ -3,10 +3,15 @@
 ## Membres
 
 Dylan DELORME LUNA - PEI
+
 Jules MANIGNE-MALAN - PEI
+
 Marie MELONI - PEI
+
 Alexandre HALBOUT - Energie
+
 Mateo BOURDAIN - Energie
+
 Ali MROUE - SI
 
 ## Synthèse
