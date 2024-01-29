@@ -1,4 +1,4 @@
-﻿# TensorFlow Lite image classification Android example application
+﻿# Projet de Fin d'Etudes
 
 ## Overview
 
