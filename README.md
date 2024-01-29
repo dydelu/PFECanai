@@ -26,6 +26,11 @@ Une partie des instructions proviennent de la documentation officielle de Tensor
 
 <img src="images/appCanai.png" style="width: 30%" />
 
+
+## Vidéo Présentation
+
+*   Cette courte  [vidéo](https://www.youtube.com/watch?v=KmbRGI6R_b0) présente la problématique ainsi que notre solution.
+
 ## Instuctions (FR)
 
 3 modèles CANAI pre-entraînés sont déjà installés et prêts a l'utilisation. Par défaut, le plus performant est séléctionné.
