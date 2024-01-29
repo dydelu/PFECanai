@@ -26,11 +26,11 @@ Une partie des instructions proviennent de la documentation officielle de Tensor
 
 <img src="images/appCanai.png" style="width: 30%" />
 
-## Instuctions (ENG)
+## Instuctions (FR)
 
-We provide 3 pre-trained Canai Red Light models to use on TensorFlowLite
+3 modèles CANAI pre-entraînés sont déjà installés et prêts a l'utilisation. Par défaut, le plus performant est séléctionné.
 
-## Requirements
+## Requirements (ENG)
 
 *   Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
 
