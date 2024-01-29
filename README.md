@@ -16,7 +16,7 @@ Mateo BOURDAIN - Energie
 
 Ali MROUE - SI
 
-## Synthèse
+## Synthèse (FR)
 
 Le projet consiste à développer un outil technique, sous la forme d’une application téléphone android ou ios, qui permettrait avant tout de percevoir des changements d’affichage au niveau des feux piétons dans les agglomérations. Chaque utilisateur, potentiel, dans notre cas les déficients visuels ( DV  - Personnes présentant des troubles aigus en terme de vision, caractérisés par des troubles de couleur ou encore une déficience visuelle motrice quasi totale ), pourraient, à l’aide de notre outil, se ballader librement dans les zones urbaines et recevoir des indications sur l’état de chaque passage piéton observé. 
 
@@ -26,7 +26,7 @@ Une partie des instructions proviennent de la documentation officielle de Tensor
 
 <!-- TODO(b/124116863): Add app screenshot. -->
 
-### Model
+### Instuctions (ENG)
 
 We provide 4 models bundled in this App: MobileNetV1 (float), MobileNetV1
 (quantized), EfficientNetLite (float) and EfficientNetLite (quantized).
