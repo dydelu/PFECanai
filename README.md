@@ -24,7 +24,7 @@ Les instructions suivantes permettent d'expliquer comment monter cette applicati
 
 Une partie des instructions proviennent de la documentation officielle de Tensor Flow Lite, le logiciel permettant de détecter les objets.
 
-<img src="images/appCanai.png" style="width: 60%" />
+<img src="images/appCanai.png" style="width: 30%" />
 
 ## Instuctions (ENG)
 
