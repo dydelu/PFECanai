@@ -1,21 +1,19 @@
 ﻿# Projet de Fin d'Etudes
 
-## Overview
+## Membres
 
-This is an example application for
-[TensorFlow Lite](https://tensorflow.org/lite) on Android. It uses
-[Image classification](https://www.tensorflow.org/lite/models/image_classification/overview)
-to continuously classify whatever it sees from the device's back camera.
-Inference is performed using the TensorFlow Lite Java API. The demo app
-classifies frames in real-time, displaying the top most probable
-classifications. It allows the user to choose between a floating point or
-[quantized](https://www.tensorflow.org/lite/performance/post_training_quantization)
-model, select the thread count, and decide whether to run on CPU, GPU, or via
-[NNAPI](https://developer.android.com/ndk/guides/neuralnetworks).
+Dylan DELORME LUNA - PEI
+Jules MANIGNE-MALAN - PEI
+Marie MELONI - PEI
+Alexandre HALBOUT - Energie
+Mateo BOURDAIN - Energie
+Ali MROUE - SI
 
-These instructions walk you through building and running the demo on an Android
-device. For an explanation of the source, see
-[TensorFlow Lite Android image classification example](EXPLORE_THE_CODE.md).
+## Synthèse
+
+Le projet consiste à développer un outil technique, sous la forme d’une application téléphone android ou ios, qui permettrait avant tout de percevoir des changements d’affichage au niveau des feux piétons dans les agglomérations. Chaque utilisateur, potentiel, dans notre cas les déficients visuels ( DV  - Personnes présentant des troubles aigus en terme de vision, caractérisés par des troubles de couleur ou encore une déficience visuelle motrice quasi totale ), pourraient, à l’aide de notre outil, se ballader librement dans les zones urbaines et recevoir des indications sur l’état de chaque passage piéton observé. 
+
+Les instructions suivantes permettent d'expliquer comment monter cette application depuis son propre PC.
 
 <!-- TODO(b/124116863): Add app screenshot. -->
 
