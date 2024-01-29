@@ -44,11 +44,11 @@ Une partie des instructions proviennent de la documentation officielle de Tensor
 
 ### Step 1. Clone the TensorFlow examples source code
 
-Clone the TensorFlow examples GitHub repository to your computer to get the demo
+Clone the CANAI example GitHub repository to your computer to get the demo
 application.
 
 ```
-git clone https://github.com/tensorflow/examples
+git clone https://github.com/dydelu/PFECanai
 ```
 
 Open the TensorFlow source code in Android Studio. To do this, open Android
